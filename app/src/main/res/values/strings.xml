@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DemoBasic</string>
+    <string name="username_prompt">Please enter your user name.</string>
+    <string name="password_prompt">Please enter password</string>
+    <string name="title_activity_logged_in">You are logged in.</string>
+    <string name="Login_Button_Text">Login</string>
+</resources>
